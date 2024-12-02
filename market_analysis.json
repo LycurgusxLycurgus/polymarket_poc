@@ -1,0 +1,36 @@
+{
+    "query": "starship launches in 2024",
+    "search_keywords": "Starship",
+    "market_details": [
+        {
+            "title": "How many SpaceX Starship launches reach space in 2024?",
+            "volume": "$592,563 Vol.",
+            "end_date": "Dec 31, 2024",
+            "outcomes": [
+                {
+                    "title": "4",
+                    "volume": "$145,048 Vol.",
+                    "percentage": "96%",
+                    "buy_yes_price": "Buy Yes 97.0\u00a2",
+                    "buy_no_price": "Buy No 4.1\u00a2"
+                },
+                {
+                    "title": "5+",
+                    "volume": "$234,229 Vol.",
+                    "percentage": "3%",
+                    "buy_yes_price": "Buy Yes 3.9\u00a2",
+                    "buy_no_price": "Buy No 98.1\u00a2"
+                }
+            ]
+        }
+    ],
+    "analysis": {
+        "bet_description": "This prediction market is about the number of SpaceX Starship launches that will successfully reach space in the year 2024. There are two possible outcomes: (1) exactly 4 launches, and (2) 5 or more launches.",
+        "probabilities": "Current market probabilities indicate a 96% chance of exactly 4 Starship launches reaching space in 2024, and a 3% chance of 5 or more launches. These probabilities reflect the collective opinion of market participants regarding the likelihood of each outcome.",
+        "volume_and_liquidity": "The total trading volume for this market is $592,563, with $145,048 (24.5% of total volume) allocated to the '4 launches' outcome and $234,229 (39.5% of total volume) to the '5+ launches' outcome. The remaining 36% of the market's volume is not specified in the provided details. Liquidity appears moderate, suggesting that entering or exiting positions may incur relatively manageable slippage, but caution is advised due to the significant imbalance in volume between the two outcomes.",
+        "opportunities": "The most profitable opportunity, based on current prices, appears to be buying 'No' for the '5+' outcome at 98.1\u00a2, if one is highly confident that SpaceX will not exceed 4 successful Starship launches in 2024. However, given the low probability (3%) and high 'No' price (98.1\u00a2), the potential reward is minimal. Buying 'Yes' for the '4 launches' outcome at 97.0\u00a2 might seem attractive due to its high probability, but the return on investment would be very low (3%).",
+        "risks": "Risks and uncertainties in this market include unforeseen technological hurdles, changes in SpaceX's launch schedule, regulatory issues, and external factors like global economic shifts or natural disasters that could impact launch operations. The significant imbalance in probabilities and volumes also introduces liquidity risk for the '5+ launches' outcome.",
+        "additional_info": "To make informed decisions, consider monitoring SpaceX's development milestones, launch schedules, and any statements from Elon Musk or official SpaceX communications. External factors such as the global space industry trends and competitor activities may also provide valuable context.",
+        "summary": "The market strongly favors exactly 4 SpaceX Starship launches reaching space in 2024 (96% probability), with moderate liquidity but significant volume imbalance between outcomes. Opportunities for profit are limited by the market's consensus, and risks are predominantly tied to unforeseen disruptions in SpaceX's operations."
+    }
+}
